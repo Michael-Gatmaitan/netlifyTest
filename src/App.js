@@ -51,7 +51,7 @@ class App extends Component {
               <About />
             </Route>
             <Route path="/contact">
-              <h1> Mahina kapa mag lancelot</h1>
+              <Contact />
             </Route>
             <Route path="*">
               <NotFound />
